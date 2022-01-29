@@ -8,6 +8,7 @@
         3. Run Train.py
              ```
              python train.py d_opt
+             
              ```
              When d_opt =0 it would Train on the SEM Dataset
              When d_opt =1 it would Train on the Particle Datset.
