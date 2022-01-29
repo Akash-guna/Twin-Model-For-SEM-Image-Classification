@@ -15,7 +15,7 @@
  <strong>When d_opt =0 it would Train on the SEM Dataset</strong> <br>
  <strong> When d_opt =1 it would Train on the Particle Datset.</strong>
     
- <i> The Models Thus Generated Would Be Stored in the Models Folder <\br> The Plots Generated would be stored in Plots Folder. </i>
+ <i> The Models Thus Generated Would Be Stored in the Models Folder <br> The Plots Generated would be stored in Plots Folder. </i>
  ### Options.py
  Options.py Contains the training options for both SEM and Particle Dataset . To change any parameter in training process update the options.py.
  
