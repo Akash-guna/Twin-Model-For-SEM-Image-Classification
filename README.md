@@ -5,10 +5,9 @@
  
  ### Training The Model:
 Steps : <br>
-
-        1. Download The Dataset From <a href="https://drive.google.com/file/d/1n_U_zcuVCVaREkWzG-T6gkWUp2DhrYGk/view?usp=sharing">[Here]<a><br>
-        1. Extract the Zip Folder in /Dataset<br>
-        1. Run Train.py
+1. Download The Dataset From <a href="https://drive.google.com/file/d/1n_U_zcuVCVaREkWzG-T6gkWUp2DhrYGk/view?usp=sharing">[Here]<a><br>
+1. Extract the Zip Folder in /Dataset<br>
+1. Run Train.py
             
 ```
             python train.py d_opt
