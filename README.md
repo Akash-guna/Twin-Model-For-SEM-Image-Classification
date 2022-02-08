@@ -4,8 +4,9 @@
  
  
  ### Training The Model:
+ 
 Steps : <br>
-1. Download The Dataset From <a href="https://drive.google.com/file/d/1n_U_zcuVCVaREkWzG-T6gkWUp2DhrYGk/view?usp=sharing">[Here]<a><br>
+1. Download The Dataset From [HERE](https://drive.google.com/file/d/1n_U_zcuVCVaREkWzG-T6gkWUp2DhrYGk/view?usp=sharing)
 1. Extract the Zip Folder in /Dataset<br>
 1. Run Train.py
             
@@ -24,7 +25,7 @@ Steps : <br>
  Refer Requirements.txt for required dependencies.
  
   ### Trained Models
-    1. <a href="https://drive.google.com/drive/folders/1tuyq9sUbRD4OnRO9AZJFUuD-l7G12C3U?usp=sharing">SEM</a>
-    1. <a href="https://drive.google.com/drive/folders/1jSq2nMKRTJq7tl1vnXIf09_v8Dd5CfCq?usp=sharing">Particles</a>
+ 1. <a href="https://drive.google.com/drive/folders/1tuyq9sUbRD4OnRO9AZJFUuD-l7G12C3U?usp=sharing">SEM</a>
+ 1. <a href="https://drive.google.com/drive/folders/1jSq2nMKRTJq7tl1vnXIf09_v8Dd5CfCq?usp=sharing">Particles</a>
 
  
